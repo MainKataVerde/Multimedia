@@ -1,0 +1,3 @@
+---
+img: mongo.svg
+---
